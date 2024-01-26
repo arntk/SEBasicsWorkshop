@@ -1,1 +1,2 @@
 # SEBasicsWorkshop
+Hello GitHub!
